@@ -1,8 +1,6 @@
 # qbittorrentsiphon - Open Source Extension for Chrome
 
-  Author: S Bussetti; S Ivanov
-  
-  fork from delugesiphon Web: https://github.com/sbussetti/deluge-siphon
+  fork from delugesiphon Web: https://github.com/sbussetti/deluge-siphon (Author: S Bussetti)
   
   update for communication with qBittorrent web ui
   
